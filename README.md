@@ -3,7 +3,8 @@ Internship Application System with Spring Boot, React.js, Spring Security, and K
 Project Overview
 
 This project is a modern web application for managing internship applications. It is built using Spring Boot on the backend, React.js on the frontend, and integrates Spring Security for authentication and Keycloak for Identity and Access Management (IAM).
-Features
+
+Features : 
     
     User Authentication: Utilizes Spring Security 6 for secure user authentication.
     Role-Based Access Control: Implements role-based access control to manage user permissions.
@@ -11,7 +12,7 @@ Features
     Internship Application Management: Provides features for creating, updating, and tracking internship applications.
     Dashboard: A user-friendly dashboard for users to view the status of their applications.
 
-Technologies Used
+Technologies Used : 
  
     Spring Boot: A Java-based framework for the backend.
     Based on microservices architecture .
